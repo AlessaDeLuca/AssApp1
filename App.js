@@ -11,6 +11,8 @@ import { Provider } from 'react-redux';
 import store from './src/redux/store';
 import AppContainer from './src/navigation/AppNavigation';
 
+//applicazione
+
 console.disableYellowBox = true;
 
 const App = () => {
